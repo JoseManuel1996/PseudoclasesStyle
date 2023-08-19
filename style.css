@@ -5,3 +5,18 @@ ul{
     color: rgb(255, 149, 0);
     display:flex;
 }
+span{
+    background-color: red;
+    border: 10px red solid;
+    justify-content: space-between;
+    display: flex;
+}
+p.title{
+    color:rgb(16, 15, 15);
+    justify-content: space-between;
+}
+p.value{
+    color:blue;
+    text-align: right;
+    justify-content: flex-end;
+}
